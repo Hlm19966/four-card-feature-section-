@@ -1,0 +1,15 @@
+h1 {
+    background-color:  
+      hsl(0, 78%, 62%)
+    - hsl(180, 62%, 55%)
+    - hsl(34, 97%, 64%)
+    - hsl(212, 86%, 64%)
+    - hsl(234, 12%, 34%)
+    
+    
+    - hsl(0, 0%, 98%)
+}
+
+h2 {
+  background-color: #a3a5ae;;
+}
